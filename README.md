@@ -1,7 +1,7 @@
 ### Hello there, my name is Ryan 👋
 I'm a full stack .NET developer, Umbraco specialist and a self taught mobile app developer with 5+ years experience within digital agencies.
 
-Here's just a short list of the programming languages I use 💻
+#### Here's just a short list of the programming languages I use 💻
 Classic ASP.NET, .NET MVC, .NET Core, C#, VB.NET, Umbraco, Vendr, Kentico, Entity Framework, Dependency Injection, Database Design, MSSQL, MySQL, HTML5, SCSS, JavaScript, jQuery, Angular JS, Google Maps API, Azure, Source Control, GIT, Xamarin Forms, Swift/Swift UI, Storyboards, Python, Shopify.
 
 #### 🔭 I’m currently working on
