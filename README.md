@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Umbraco, .NET, Swift/SwiftUI, Database Design, Xamarin, Angular JS, Google Maps API, Shopify**
 
-- 📫 How to reach me **me@ryanhelmn.co.uk**
+- 📫 How to reach me **me@ryanhelmn.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
