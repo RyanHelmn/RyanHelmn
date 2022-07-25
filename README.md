@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">I'm a full stack .NET developer, Umbraco specialist and a cross-platform mobile app developer with 8+ years experience within digital agencies.</h3>
-
 - 👨‍💻 Checkout my website for more [https://www.ryanhelmn.co.uk/](https://ryanhelmn.dev/)
 
 - 📫 How to reach me **me@ryanhelmn.dev**
