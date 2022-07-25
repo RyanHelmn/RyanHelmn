@@ -1,4 +1,4 @@
-- 👨‍💻 Checkout my website for more [https://www.ryanhelmn.co.uk/](https://ryanhelmn.dev/)
+- 👨‍💻 Checkout my website for more [https://ryanhelmn.dev](https://ryanhelmn.dev/)
 
 - 📫 How to reach me **me@ryanhelmn.dev**
 
