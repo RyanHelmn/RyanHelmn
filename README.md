@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">I'm a full stack .NET developer, Umbraco specialist and a self taught mobile app developer with 5+ years experience within digital agencies.</h3>
+<h3 align="center">I'm a full stack .NET developer, Umbraco specialist and a cross-platform mobile app developer with 8+ years experience within digital agencies.</h3>
 
-- 🔭 I’m currently working on **a e-commerce store and mobile app using [Vendr](https://vendr.net/) and using [Umbraco HeadRest](https://github.com/mattbrailsford/umbraco-headrest) to expose the content & products to the mobile app.**
-
-- 🔭 I’m also currently working on **some Umbraco packages that will be handy to the community**
-
-- 🔭 And finally currently working on **a embedded Shopify app built with .NET core.**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 Checkout my website for more [https://www.ryanhelmn.co.uk/](https://www.ryanhelmn.co.uk/)
-
-- 📄 Know about my experiences [https://www.ryanhelmn.co.uk/cv/](https://www.ryanhelmn.co.uk/cv/)
-
-- 💬 Ask me about **Umbraco, .NET, Swift/SwiftUI, Database Design, Xamarin, Angular JS, Google Maps API, Shopify**
+- 👨‍💻 Checkout my website for more [https://www.ryanhelmn.co.uk/](https://ryanhelmn.dev/)
 
 - 📫 How to reach me **me@ryanhelmn.dev**
 
